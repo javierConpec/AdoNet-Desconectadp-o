@@ -1,0 +1,12 @@
+C:\Users\javie\source\repos\Aplicativaa1\bin\Debug\Aplicativaa1.exe.config
+C:\Users\javie\source\repos\Aplicativaa1\bin\Debug\Aplicativaa1.exe
+C:\Users\javie\source\repos\Aplicativaa1\bin\Debug\Aplicativaa1.pdb
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.csproj.AssemblyReference.cache
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.Editar.resources
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.Form1.resources
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.Properties.Resources.resources
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.csproj.GenerateResource.cache
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.exe
+C:\Users\javie\source\repos\Aplicativaa1\obj\Debug\Aplicativaa1.pdb
